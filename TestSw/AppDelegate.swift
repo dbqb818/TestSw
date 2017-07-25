@@ -21,6 +21,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         //logsth3
         //main logsth4
         //branch2 logsth5
+        //branch2 logsth7
         return true
     }
 
